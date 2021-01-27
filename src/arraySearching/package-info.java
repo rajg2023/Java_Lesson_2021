@@ -1,0 +1,8 @@
+/**
+ * 
+ */
+/**
+ * @author myubuntu
+ *
+ */
+package arraySearching;
